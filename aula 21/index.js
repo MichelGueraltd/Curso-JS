@@ -56,5 +56,5 @@ let diaSemana = data.getDay();
 const diaSemanaTexto = getDiaSemanaTexto(diaSemana);
 console.log(diaSemana, diaSemanaTexto);
 
-// É mai recomendado usar (const) do que (let) para não altera o valor da variavel!
+// É mais recomendado usar (const) do que (let) para não altera o valor da variavel!
 // quando for alterar o valor usar (let)..
