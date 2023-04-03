@@ -15,7 +15,7 @@ console.log(numero);
 
 // Break - sai do laço!
 if (numero === 7) {
-console.log ('Encontrado, saindo...');
+console.log ('7 Encontrado, saindo...');
 i++;
 break;
 }
